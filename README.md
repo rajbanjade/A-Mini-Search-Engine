@@ -1,4 +1,4 @@
-# A-Mini-Search-Engine
+#A Mini Search Engine
 
 Are you willing to build your own search engine like Google?  
 
